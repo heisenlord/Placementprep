@@ -1,0 +1,30 @@
+
+
+//Stack
+
+Stack<> st=new Stack<>();
+
+->st.push()
+->st.peek()
+->st.pop()
+->st.isEmpty()
+->st.isFull()
+
+
+//Queue
+
+Queue<> q=new LinkedList<>();
+
+->q.add() ---doesn't return any thing takes exception     q.offer() -- return's false if it fails
+->q.peek()
+->q.remove()     q.poll() ---same ad q.add exception 
+
+//Dqueue
+
+Dqueue<> dq=new ArrayDqueuq<>()
+
+
+
+
+
+

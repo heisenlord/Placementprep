@@ -1,0 +1,23 @@
+Functions
+
+
+//STRINGS
+->str.charAt(i);
+->str.length();
+->str.compareTo(str2); //s1>s2+ve s1==s2 0 s<s2 -ve value
+->str.euqals(str2);
+-->str.subString(0,4)
+
+
+//STRINGBUILDER
+
+
+StirngBuilder sb=new StringBuilder();\
+
+
+->sb.charAt(i);
+->sb.setCharAt(0,'p');
+->sb.insert(0,'s');
+->sb.delete(0,1);
+->sb.append("");
+->sb.length();
